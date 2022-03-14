@@ -24,7 +24,7 @@ VG KRAV:
  - I *main-branchen* av ditt repo skapar en yaml-konfigurationsfil kallad **"deployandtest.yml"** som ligger i rätt mappstruktur för att kunna läsas av github actions.
  - I denna fil ska det finnas **en action** som kör testerna när du gör en Pull Request (PR) mot branchen *main*.
  - Skapa en ny **feature-branch** för ditt repo att arbeta ifrån - ändringarna du gör i denna branch kan vara ytliga (e.g. i readme filen).
- - Skapa på Github en **Pull Request** mot branchen *main*, du ser nu att dina tester körs!
+ - Skapa på Github en **Pull Request** mot branchen *main*, du ser nu att dina tester körs!sdfdsf
 
 ### Scenario:
 
