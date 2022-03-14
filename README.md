@@ -17,7 +17,7 @@ G KRAV:
 
  - Skapa till projektet ett **testprojekt** för att skapa enhetstester och integrationstester.
  - Identifiera och skapa minst **2 lämpliga enhetstester** till den givna applikationen och implementera dem. 
- - Skapa minst **ett lämpligt integrationstest** som kan användas lokalt eller efter driftsättning, integrationstestet ska testa svaret från åtkomstpunkt via en HTTP förfrågan och inte importera applikationskoden direkt
+ - Skapa minst **ett lämpligt integrationstest** som kan användas lokalt eller efter driftsättning, integrationstestet ska testa svaret från åtkomstpunkt via en HTTP förfrågan och inte importera applikationskoden direktlsdjfd
 
 VG KRAV:
 
