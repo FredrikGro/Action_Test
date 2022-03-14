@@ -28,7 +28,7 @@ VG KRAV:
 
 ### Scenario:
 
-Webbapplikation du fått i denna  riktad till föreningar som är anslutna till Sveriges Förenade Filmstudios (SFF), där man via ett API och senare även ett klientgränssnitt kan boka/beställa filmer till sin biografverksamhet.
+Webbapplikation du fått i denna  riktad till föreningar som är anslutna till Sveriges Förenade Filmstudios (SFF), där man via ett API och senare även ett klientgränssnitt kan boka/beställa filmer till sin biografverksamhet....
 
 SFF fungerar så att lokala filmintresserade bildar föreningar (en filmstudio), dessa föreningar ingår i medlemskap hos SFF som är förbund för alla filmstudios i Sverige. SFF köper rättigheter från filmdistributörerer att låna ett visst antal exemplar av olika filmer, som SFF sen skickar till lokala föreningar. Filmstudion visar sedan dem på på exempelvis kulturhus och mindre biografer runt om i landet.
 
